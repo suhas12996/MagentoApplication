@@ -33,6 +33,7 @@ Thread.sleep(3000);
 driver.findElement(By.linkText("Log Out")).click();
 Thread.sleep(3000);
 driver.quit();
+Thread.sleep(3000);
 }
 }
 
